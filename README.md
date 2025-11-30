@@ -1,10 +1,6 @@
 # Smugglers-VS-Customs-Game-Theory-Project
-
-============================================================
-                    SMUGGLER vs CUSTOMS  
-                        GAME RULES
-============================================================
-
+## Game Rules:
+---
 1. The game has 3 lanes:
    - N  : North
    - C  : Center
