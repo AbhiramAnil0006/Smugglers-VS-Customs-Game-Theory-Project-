@@ -34,3 +34,8 @@
       Each round corresponds to the same 3x3 payoff matrix.
       This is a repeated zero-sum game similar to
       a 3-action Matching Pennies structure.
+
+## How to run the game:
+1. Download the file or copy the code into a python file & then run following commands in command prompt in the same directory as the file you just created.
+   i.  `pip install os time`
+   ii. `python yourfilename.py`
