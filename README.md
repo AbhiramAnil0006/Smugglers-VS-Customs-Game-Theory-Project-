@@ -39,3 +39,5 @@
 1. Download the file or copy the code into a python file & then run following commands in command prompt in the same directory as the file you just created.<br>
    i.  `pip install os time`<br>
    ii. `python yourfilename.py`
+
+2. If you don't have python installed, you can run the code without any commands in <a href="https://colab.research.google.com/">Google Colab</a>.
