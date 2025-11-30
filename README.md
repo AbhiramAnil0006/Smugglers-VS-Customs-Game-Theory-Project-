@@ -34,5 +34,3 @@
       Each round corresponds to the same 3x3 payoff matrix.
       This is a repeated zero-sum game similar to
       a 3-action Matching Pennies structure.
-
-============================================================
